@@ -1,10 +1,10 @@
 # Customer-Segmentation-using-K-means-Clustering
 ## Overview
-This project applies **K-Means clustering** to real-world mall customer data to uncover **distinct customer groups** based on demographics, income, and spending patterns.  
+This project applies **K-Means clustering** to real-world mall customer data to uncover **distinct customer groups**  
 By identifying these segments, retail businesses can **target marketing campaigns more effectively**, improve **customer retention**, and **increase profitability**.
 ------
 ## Objectives
-- Segment customers based on **age, income, and spending score**
+- Segment customers based on **age, product price, and product quantity**
 - Identify **high-value vs. low-value** customer clusters
   -----
   Tech Stack
@@ -15,4 +15,4 @@ By identifying these segments, retail businesses can **target marketing campaign
   ------
   ## Key Insights
 - Customers fall into distinct groups based on income and spending score.
-- Certain clusters represent **high-income, high-spending** individuals—ideal for premium offers.
+- Certain clusters represent **high-value, high-spending** individuals—ideal for premium offers.
